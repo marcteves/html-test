@@ -1,6 +1,0 @@
-<html>
-<head><title></title></head>
-<frameset rows="50,50">
-<frame src="Table of Contents.html">
-<frame src=".html">
-</frameset></html>
